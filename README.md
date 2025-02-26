@@ -17,6 +17,7 @@ Two well-known bird classification datasets:
 |---|---|---|
 | CUB 200 | https://data.caltech.edu/records/65de6-vp158 | CUB_200_2011.tgz |
 | NABirds | https://dl.allaboutbirds.org/nabirds | nabirds.tar.gz |
+
 **Note: The NABirds dataset requires user registration and agreement to its terms before download.**
 
 ## Project Setup
